@@ -1,1 +1,1 @@
-# SPARC trigger board firmware
+# ECP5-versa practice
