@@ -1,0 +1,26 @@
+$date
+	Fri Oct 23 12:10:56 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb_sw_to_led $end
+$var wire 8 ! led [7:0] $end
+$var reg 8 " sw [7:0] $end
+$scope module dut $end
+$var wire 8 # led [7:0] $end
+$var wire 8 $ sw [7:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b1111 $
+b11110000 #
+b1111 "
+b11110000 !
+$end
+#10000
