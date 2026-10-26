@@ -1,3 +1,5 @@
+`default_nettype none
+
 module sync2 (
     input wire clk,
     input wire d,
@@ -12,4 +14,4 @@ module sync2 (
     end
 
     assign q = s2;
-endmodule;
+endmodule

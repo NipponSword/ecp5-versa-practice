@@ -1,3 +1,5 @@
+`default_nettype none
+
 module counter4 (
     input wire clk,
     input wire en,

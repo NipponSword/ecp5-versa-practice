@@ -1,4 +1,5 @@
 `timescale 1ns/1ps
+`default_nettype none
 
 module tb_counter4;
     reg clk = 0;

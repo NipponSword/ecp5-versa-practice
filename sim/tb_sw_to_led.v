@@ -1,4 +1,5 @@
 `timescale 1ns/1ps
+`default_nettype none
 
 module tb_sw_to_led;
     reg [7:0] sw;

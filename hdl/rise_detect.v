@@ -1,3 +1,5 @@
+`default_nettype none
+
 module rise_detect (
     input wire clk,
     input wire d,

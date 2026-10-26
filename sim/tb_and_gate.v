@@ -1,4 +1,5 @@
 `timescale 1ns/1ps
+`default_nettype none
 
 module tb_and_gate;
     reg a, b;

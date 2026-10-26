@@ -1,3 +1,5 @@
+`default_nettype none
+
 module blink #(
     parameter W = 30
 )(

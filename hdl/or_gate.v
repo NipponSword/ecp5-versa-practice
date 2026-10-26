@@ -1,3 +1,5 @@
+`default_nettype none
+
 module or_gate (
     input wire a,
     input wire b,
